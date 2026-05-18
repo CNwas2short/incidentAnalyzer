@@ -1,0 +1,31 @@
+Date,Department,Incident Type,Severity,Lost Time?
+5/1/2026,Assembly,Slip,Low,No
+5/2/2026,Warehouse,Forklift Near Miss,High,No
+5/3/2026,Packaging,Back Strain,Medium,Yes
+5/3/2026,Maintenance,Chemical Spill,High,No
+5/4/2026,Assembly,Cut Injury,Medium,No
+5/5/2026,Shipping,Trip Hazard,Low,No
+5/5/2026,Warehouse,Falling Object,High,Yes
+5/6/2026,Maintenance,Equipment Malfunction,Medium,No
+5/7/2026,Packaging,Repetitive Strain,Low,No
+5/7/2026,Assembly,Burn Injury,Medium,Yes
+5/8/2026,Warehouse,Slip,Low,No
+5/9/2026,Shipping,Forklift Incident,High,Yes
+5/10/2026,Maintenance,Electrical Hazard,High,No
+5/10/2026,Packaging,Cut Injury,Medium,No
+5/11/2026,Assembly,Near Miss,Low,No
+5/12/2026,Warehouse,Back Strain,Medium,Yes
+5/13/2026,Shipping,Chemical Exposure,High,No
+5/13/2026,Maintenance,Slip,Low,No
+5/14/2026,Packaging,Machine Jam Injury,Medium,No
+5/15/2026,Assembly,Falling Object,High,Yes
+5/16/2026,Warehouse,Trip Hazard,Low,No
+5/17/2026,Maintenance,Burn Injury,Medium,No
+5/18/2026,Shipping,Near Miss,Low,No
+5/18/2026,Packaging,Chemical Spill,High,Yes
+5/19/2026,Assembly,Repetitive Strain,Medium,No
+5/20/2026,Warehouse,Equipment Malfunction,Medium,No
+5/21/2026,Shipping,Slip,Low,No
+5/22/2026,Maintenance,Forklift Near Miss,High,No
+5/23/2026,Packaging,Back Strain,Medium,Yes
+5/24/2026,Assembly,Electrical Hazard,High,No
